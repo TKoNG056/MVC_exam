@@ -80,7 +80,7 @@ public class mainView {
                 goat.goatWindow();
             }
         } else {
-            JOptionPane.showMessageDialog(null, "Invalid ID. Please enter a valid ID.");
+            JOptionPane.showMessageDialog(null, "Invalid ID.");
         }
     }
 
